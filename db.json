@@ -2,23 +2,101 @@
 "departamentos": 
 [
     {
+    "id": "01",
+    "nombre": "Ahuachapán",
+    "cabecera": "Ahuachapán",
+    "extension": 1239.60,
+    "municipios": ["Ahuachapán","Apaneca","Atiquizaya","Concepción de Ataco","El Refugio","Guaymango","Jujutla","San Francisco Menéndez","San Lorenzo","San Pedro Puxtla","Tacuba","Turín"]
+    },
+    {
+    "id": "02",
+    "nombre": "Santa Ana",
+    "cabecera": "Santa Ana",
+    "extension": 2023.17,
+    "municipios": ["Candelaria de la Frontera","Chalchuapa","Coatepeque","El Congo","El Porvenir","Masahuat","Metapán","San Antonio Pajonal","San Sebastián Salitrillo","Santa Ana","Santa Rosa Guachipilín","Santiago de la Frontera","Texistepeque"]
+    },
+    {
+    "id": "03",
+    "nombre": "Sonsonate",
+    "cabecera": "Sonsonate",
+    "extension": 1225.77,
+    "municipios": ["Acajutla","Armenia","Caluco","Cuisnahuat","Izalco","Juayúa","Nahuizalco","Nahulingo","Salcoatitán","San Antonio del Monte","San Julián","Santa Catarina Masahuat","Santa Isabel Ishuatán","Santo Domingo de Guzmán","Sonsonate","Sonzacate"]
+    },
+    {
+    "id": "04",
+    "nombre": "Cuscatlán",
+    "cabecera": "Cojutepeque",
+    "extension": 756.19,
+    "municipios": ["Candelaria","Cojutepeque","El Carmen","El Rosario","Monte San Juan","Oratorio de Concepción","San Bartolomé Perulapía","San Cristóbal","San José Guayabal","San Pedro Perulapán","San Rafael Cedros","San Ramón","Santa Cruz Analquito","Santa Cruz Michapa","Suchitoto","Tenancingo"]
+    },
+    {
+    "id": "05",
+    "nombre": "La Libertad",
+    "cabecera": "Santa Tecla",
+    "extension": 1652.88,
+    "municipios": ["Antiguo Cuscatlán","Chiltiupán","Ciudad Arce","Colón","Comasagua","Huizúcar","Jayaque","Jicalapa","La Libertad","Santa Tecla (Nueva San Salvador)","Nuevo Cuscatlán","San Juan Opico","Quezaltepeque","Sacacoyo","San José Villanueva","San Matías","San Pablo Tacachico","Talnique","Tamanique","Teotepeque","Tepecoyo","Zaragoza"]
+    },
+    {
+    "id": "06",
+    "nombre": "San Salvador",
+    "cabecera": "San Salvador",
+    "extension": 886.15,
+    "municipios": ["Aguilares","Apopa","Ayutuxtepeque","Ciuddad Delgado","Cuscatancingo","El Paisnal","Guazapa","Ilopango","Mejicanos","Nejapa","Panchimalco","Rosario de Mora","San Marcos","San Martín","San Salvador","Santiago Texacuangos","Santo Tomás","Soyapango","Tonacatepeque"]
+    },
+    {
+    "id": "07",
+    "nombre": "Cuscatlán",
+    "cabecera": "Cojutepeque",
+    "extension": 756.19,
+    "municipios": ["Candelaria","Cojutepeque","El Carmen","El Rosario","Monte San Juan","Oratorio de Concepción","San Bartolomé Perulapía","San Cristóbal","San José Guayabal","San Pedro Perulapán","San Rafael Cedros","San Ramón","Santa Cruz Analquito","Santa Cruz Michapa","Suchitoto","Tenancingo"]
+    },    
+    {
+    "id": "08",
+    "nombre": "La Paz",
+    "cabecera": "Zacatecoluca",
+    "extension": 1223.61,
+    "municipios": ["Cuyultitán","El Rosario","Jerusalén","Mercedes La Ceiba","Olocuilta","Paraíso de Osorio","San Antonio Masahuat","San Emigdio","San Francisco Chinameca","San Juan Nonualco","San Juan Talpa","San Juan Tepezontes","San Luis La Herradura","San Luis Talpa","San Miguel Tepezontes","San Pedro Masahuat","San Pedro Nonualco","San Rafael Obrajuelo","Santa María Ostuma","Santiago Nonualco","Tapalhuaca","Zacatecoluca"]
+    },    
+    {
+    "id": "09",
+    "nombre": "Cabañas",
+    "cabecera": "Sensuntepeque",
+    "extension": 1103.51,
+    "municipios": ["Cinquera","Dolores","Guacotecti","Ilobasco","Jutiapa","San Isidro","Sensuntepeque","Tejutepeque","Victoria"] 
+    },    
+    {
+    "id": "10",
+    "nombre": "San Vicente",
+    "cabecera": "San Vicente",
+    "extension": 1184.02,
+    "municipios": ["Apastepeque","Guadalupe","San Cayetano Istepeque","San Esteban Catarina","San Ildefonso","San Lorenzo","San Sebastián","San Vicente","Santa Clara","Santo Domingo","Tecoluca","Tepetitán","Verapaz"]
+    },    
+    {
     "id": "11",
     "nombre": "Usulután",
+    "cabecera": "Usulután",
+    "extension": 2130.44,
     "municipios": ["Alegría","Berlín","California","Concepción Batres","El Triunfo","Ereguayquín","Estanzuelas","Jiquilisco","Jucuapa","Jucuarán","Mercedes Umaña","Nueva Granada","Ozatlán","Puerto El Triunfo","San Agustín","San Buenaventura","San Dionisio","San Francisco Javier","Santa Elena","Santa María","Santiago de María","Tecapán","Usulután"]
     },    
     {
     "id": "12",
     "nombre": "San Miguel",
+    "cabecera": "San Miguel",
+    "extension": 2077.10,
     "municipios": ["Carolina","Chapeltique","Chinameca","Chirilagua","Ciudad Barrios","Comacarán","El Tránsito","Lolotique","Moncagua","Nueva Guadalupe","Nuevo Edén de San Juan","Quelepa","San Antonio del Mosco","San Gerardo","San Jorge","San Luis de la Reina","San Miguel","San Rafael Oriente","Sesori","Uluazapa"]
 },
 {
     "id": "13",
     "nombre": "Morazán",
+    "cabecera": "San Francisco Gotera",
+    "extension": 1447.43,
     "municipios": ["Arambala","Cacaopera","Chilanga","Corinto","Delicias de Concepción","El Divisadero","El Rosario","Gualococti","Guatajiagua","Joateca","Jocoaitique","Jocoro","Lolotiquillo","Meanguera","Osicala","Perquín","San Carlos","San Fernando","San Francisco Gotera","San Isidro","San Simón","Sensembra","Sociedad","Torola","Yamabal","Yoloaiquín"]
 },
 {
     "id": "14",
     "nombre": "La Unión",
+    "cabecera": "La Unión",
+    "extension": 2074.34,
     "municipios": ["Anamorós","Bolívar","Concepción de Oriente","Conchagua","El Carmen","El Sauce","Intipucá","La Unión","Lilisque","Meanguera del Golfo","Nueva Esparta","Pasaquina","Polorós","San Alejo","San José","Santa Rosa de Lima","Yayantique","Yucuaiquín"]
 } 
 
