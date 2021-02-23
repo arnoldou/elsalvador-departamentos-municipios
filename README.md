@@ -13,3 +13,9 @@ fetch('https://api.npoint.io/7e53c5e425b20fcf2847/departamentos')
 ## NOTA:
 
 El valor de la propiedad extension es en kilometros cuadrados.
+
+## Referencias
+
+Codigos Postales de los municipios
+
+https://www.correos.gob.sv/codigos-postales
