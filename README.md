@@ -19,3 +19,7 @@ El valor de la propiedad extension es en kilometros cuadrados.
 Codigos Postales de los municipios
 
 https://www.correos.gob.sv/codigos-postales
+
+Para otros datos:
+
+http://biblioteca.utec.edu.sv/siab/virtual/PNUD/84202.pdf
