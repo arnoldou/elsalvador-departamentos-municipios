@@ -23,3 +23,7 @@ https://www.correos.gob.sv/codigos-postales
 Para otros datos:
 
 http://biblioteca.utec.edu.sv/siab/virtual/PNUD/84202.pdf
+
+### Miembro de la Comunidad NodeSchool San Miguel
+
+
