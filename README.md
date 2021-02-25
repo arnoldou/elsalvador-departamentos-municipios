@@ -6,14 +6,14 @@ https://api.npoint.io/253f0ee259ef1620a547/departamentos
 
 ### El archivo contiene la siguiente información:
 
-| Propiedad | Descripción |
-| :------------- | :---------- |
-| id | Identificador único para cada departamento |
-| nombre | Nombre del departamento |
-| cabecera | Nombre de la cabecera del departamento|
-|ISO3166-2|Código  ISO3166-2 del departamento|
-| extension|  Extensión territorial del departamento en kilómetros cuadrados|
-| municipios| Nombres de los municipios del departamento con información especifica del municipio|
+| Propiedad |Tipo | Descripción |
+| :------------- |:----------- |:---------- |
+| id | String |Identificador único para cada departamento |
+| nombre | String | Nombre del departamento |
+| cabecera | String | Nombre de la cabecera del departamento|
+|ISO3166-2| String |Código  ISO3166-2 del departamento|
+| extension| Number | Extensión territorial del departamento en kilómetros cuadrados|
+| municipios| Array |Nombres de los municipios del departamento con información especifica del municipio|
 
 
 Los municipios contienen la siguiente información:
