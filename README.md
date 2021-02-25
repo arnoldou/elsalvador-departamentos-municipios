@@ -1,4 +1,5 @@
-# elsalvador-departamentos-municipios
+# Departamentos y Municipios de El Salvador
+
 Departamentos y municipios de El Salvador en formato json.
 
 Esta información puede ser consumida desde la siguiente ruta:
