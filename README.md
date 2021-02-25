@@ -21,7 +21,7 @@ Los municipios contienen la siguiente información:
 * cod_postal - Código postal del municipio
 
 
-## Ejemplo:
+## Ejemplo para accesar a la información desde Javascript:
 
 fetch('https://api.npoint.io/253f0ee259ef1620a547/departamentos')
 .then(response => response.json())
