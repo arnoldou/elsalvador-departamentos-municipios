@@ -6,8 +6,10 @@ https://api.npoint.io/253f0ee259ef1620a547/departamentos
 
 ### El archivo contiene la siguiente información:
 
+| Propiedad | Descripción |
+| :------------- | ----------: |
 | id | Identificador único para cada departamento |
-| nombre| Nombre del departamento |
+| nombre | Nombre del departamento |
 
 * - 
 *  - 
