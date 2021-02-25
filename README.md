@@ -6,8 +6,11 @@ https://api.npoint.io/253f0ee259ef1620a547/departamentos
 
 ### El archivo contiene la siguiente información:
 
-* id - Identificador único para cada departamento
-* nombre - Nombre del departamento
+| id | Identificador único para cada departamento |
+| nombre| Nombre del departamento |
+
+* - 
+*  - 
 * cabecera - Nombre de la cabecera del departamento
 * ISO3166-2 - Código  ISO3166-2 del departamento
 * extension - Extensión territorial del departamento en kilómetros cuadrados
