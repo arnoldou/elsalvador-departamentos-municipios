@@ -18,10 +18,13 @@ https://api.npoint.io/253f0ee259ef1620a547/departamentos
 
 Los municipios contienen la siguiente información:
 
-* id_mun - Identificador único del municipio
-* nombre - Nombre del municipio
-* cantones - Cantidad de cantones del municipio
-* cod_postal - Código postal del municipio
+| Propiedad | Descripción |
+| :------------- | :---------- |
+| id_mun| Identificador único del municipio|
+| nombre| Nombre del municipio|
+| cantones| Cantidad de cantones del municipio|
+| cod_postal| Código postal del municipio|
+
 
 
 ## Ejemplo para accesar a la información desde Javascript:
