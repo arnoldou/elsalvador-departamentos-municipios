@@ -8,22 +8,22 @@ https://api.npoint.io/253f0ee259ef1620a547/departamentos
 
 | Propiedad |Tipo | Descripción |
 | :------------- |:----------- |:---------- |
-| id | String |Identificador único para cada departamento |
-| nombre | String | Nombre del departamento |
-| cabecera | String | Nombre de la cabecera del departamento|
-|ISO3166-2| String |Código  ISO3166-2 del departamento|
-| extension| Number | Extensión territorial del departamento en kilómetros cuadrados|
-| municipios| Array |Nombres de los municipios del departamento con información especifica del municipio|
+| id | string |Identificador único para cada departamento |
+| nombre | string | Nombre del departamento |
+| cabecera | string | Nombre de la cabecera del departamento|
+|ISO3166-2| string |Código  ISO3166-2 del departamento|
+| extension| number | Extensión territorial del departamento en kilómetros cuadrados|
+| municipios| array |Nombres de los municipios del departamento con información especifica del municipio|
 
 
 Los municipios contienen la siguiente información:
 
-| Propiedad | Descripción |
-| :------------- | :---------- |
-| id_mun| Identificador único del municipio|
-| nombre| Nombre del municipio|
-| cantones| Cantidad de cantones del municipio|
-| cod_postal| Código postal del municipio|
+| Propiedad | Tipo | Descripción |
+| :------------- | :----------| :---------- |
+| id_mun| string |Identificador único del municipio|
+| nombre| string |Nombre del municipio|
+| cantones| number |Cantidad de cantones del municipio|
+| cod_postal| string |Código postal del municipio|
 
 
 
