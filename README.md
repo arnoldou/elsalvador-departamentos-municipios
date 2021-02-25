@@ -10,15 +10,15 @@ https://api.npoint.io/253f0ee259ef1620a547/departamentos
 * nombre - Nombre del departamento
 * cabecera - Nombre de la cabecera del departamento
 * ISO3166-2 - Código  ISO3166-2 del departamento
-* extension - Extensión territorial del departamento en kilometros cuadrados
+* extension - Extensión territorial del departamento en kilómetros cuadrados
 * municipios - Nombres de los municipios del departamento con información especifica del municipio
 
 Los municipios contienen la siguiente información:
 
 * id_mun - Identificador único del municipio
-* nombre - Nombre del Municipio
+* nombre - Nombre del municipio
 * cantones - Cantidad de cantones del municipio
-* cod_postal - Codigo postal del municipio
+* cod_postal - Código postal del municipio
 
 
 ## Ejemplo:
