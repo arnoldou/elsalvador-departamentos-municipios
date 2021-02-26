@@ -11,73 +11,73 @@
 					"id_mun": "0101",
 					"nombre": "Ahuachapán",
 					"codigo_postal": "02101",
-					"cantones": "?"
+					"cantones": 29
 				},
 				{
 					"id_mun": "0102",
 					"nombre": "Apaneca",
 					"codigo_postal": "02102",
-					"cantones": "?"
+					"cantones": 7
 				},
 				{
 					"id_mun": "0103",
 					"nombre": "Atiquizaya",
 					"codigo_postal": "02103",
-					"cantones": "?"
+					"cantones": 14
 				},
 				{
 					"id_mun": "0104",
 					"nombre": "Concepción de Ataco",
 					"codigo_postal": "02106",
-					"cantones": "?"
+					"cantones": 11
 				},
 				{
 					"id_mun": "0105",
 					"nombre": "El Refugio",
 					"codigo_postal": "02107",
-					"cantones": "?"
+					"cantones": 3
 				},
 				{
 					"id_mun": "0106",
 					"nombre": "Guaymango",
 					"codigo_postal": "02108",
-					"cantones": "?"
+					"cantones": 14
 				},
 				{
 					"id_mun": "0107",
 					"nombre": "Jujutla",
 					"codigo_postal": "02109",
-					"cantones": "?"
+					"cantones": 12
 				},
 				{
 					"id_mun": "0108",
 					"nombre": "San Francisco Menéndez",
 					"codigo_postal": "02113",
-					"cantones": "?"
+					"cantones": 9
 				},
 				{
 					"id_mun": "0109",
 					"nombre": "San Lorenzo",
 					"codigo_postal": "02115",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0110",
 					"nombre": "San Pedro Puxtla",
 					"codigo_postal": "02116",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0111",
 					"nombre": "Tacuba",
 					"codigo_postal": "02117",
-					"cantones": "?"
+					"cantones": 14
 				},
 				{
 					"id_mun": "0112",
 					"nombre": "Turín",
 					"codigo_postal": "02118",
-					"cantones": "?"
+					"cantones": 2
 				}
 			]
 		},
@@ -92,79 +92,79 @@
 					"id_mun": "0201",
 					"nombre": "Candelaria de la Frontera",
 					"codigo_postal": "02203",
-					"cantones": "?"
+					"cantones": 11
 				},
 				{
 					"id_mun": "0203",
 					"nombre": "Chalchuapa",
 					"codigo_postal": "02205",
-					"cantones": "?"
+					"cantones": 20
 				},
 				{
 					"id_mun": "0202",
 					"nombre": "Coatepeque",
 					"codigo_postal": "02204",
-					"cantones": "?"
+					"cantones": 16
 				},
 				{
 					"id_mun": "0204",
 					"nombre": "El Congo",
 					"codigo_postal": "02207",
-					"cantones": "?"
+					"cantones": 8
 				},
 				{
 					"id_mun": "0205",
 					"nombre": "El Porvenir",
 					"codigo_postal": "02208",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0206",
 					"nombre": "Masahuat",
 					"codigo_postal": "02210",
-					"cantones": "?"
+					"cantones": 5
 				},
 				{
 					"id_mun": "0207",
 					"nombre": "Metapán",
 					"codigo_postal": "02211",
-					"cantones": "?"
+					"cantones": 29
 				},
 				{
 					"id_mun": "0208",
 					"nombre": "San Antonio Pajonal",
 					"codigo_postal": "02212",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0209",
 					"nombre": "San Sebastián Salitrillo",
 					"codigo_postal": "02215",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0210",
 					"nombre": "Santa Ana",
 					"codigo_postal": "02201",
-					"cantones": "?"
+					"cantones": 35
 				},
 				{
 					"id_mun": "0211",
 					"nombre": "Santa Rosa Guachipilín",
 					"codigo_postal": "02216",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0212",
 					"nombre": "Santiago de la Frontera",
 					"codigo_postal": "02217",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0213",
 					"nombre": "Texistepeque",
 					"codigo_postal": "02218",
-					"cantones": "?"
+					"cantones": 6
 				}
 			]
 		},
@@ -179,97 +179,97 @@
 					"id_mun": "0301",
 					"nombre": "Acajutla",
 					"codigo_postal": "02302",
-					"cantones": "?"
+					"cantones": 9
 				},
 				{
 					"id_mun": "0302",
 					"nombre": "Armenia",
 					"codigo_postal": "02303",
-					"cantones": "?"
+					"cantones": 9
 				},
 				{
 					"id_mun": "0303",
 					"nombre": "Caluco",
 					"codigo_postal": "02304",
-					"cantones": "?"
+					"cantones": 8
 				},
 				{
 					"id_mun": "0304",
 					"nombre": "Cuisnahuat",
 					"codigo_postal": "02305",
-					"cantones": "?"
+					"cantones": 5
 				},
 				{
 					"id_mun": "0306",
 					"nombre": "Izalco",
 					"codigo_postal": "02306",
-					"cantones": "?"
+					"cantones": 25
 				},
 				{
 					"id_mun": "0307",
 					"nombre": "Juayúa",
 					"codigo_postal": "02307",
-					"cantones": "?"
+					"cantones": 10
 				},
 				{
 					"id_mun": "0308",
 					"nombre": "Nahuizalco",
 					"codigo_postal": "02311",
-					"cantones": "?"
+					"cantones": 15
 				},
 				{
 					"id_mun": "0309",
 					"nombre": "Nahulingo",
 					"codigo_postal": "02312",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0310",
 					"nombre": "Salcoatitán",
 					"codigo_postal": "02313",
-					"cantones": "?"
+					"cantones": 2
 				},
 				{
 					"id_mun": "0311",
 					"nombre": "San Antonio del Monte",
 					"codigo_postal": "02314",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0312",
 					"nombre": "San Julián",
 					"codigo_postal": "02316",
-					"cantones": "?"
+					"cantones": 9
 				},
 				{
 					"id_mun": "0313",
 					"nombre": "Santa Catarina Masahuat",
 					"codigo_postal": "02317",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0305",
 					"nombre": "Santa Isabel Ishuatán",
 					"codigo_postal": "02318",
-					"cantones": "?"
+					"cantones": 8
 				},
 				{
 					"id_mun": "0314",
 					"nombre": "Santo Domingo de Guzmán",
 					"codigo_postal": "02319",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0315",
 					"nombre": "Sonsonate",
 					"codigo_postal": "02301",
-					"cantones": "?"
+					"cantones": 12
 				},
 				{
 					"id_mun": "0316",
 					"nombre": "Sonzacate",
 					"codigo_postal": "02320",
-					"cantones": "?"
+					"cantones": 2
 				}
 			]
 		},
@@ -284,133 +284,133 @@
 					"id_mun": "0401",
 					"nombre": "Agua Caliente",
 					"codigo_postal": "01302",
-					"cantones": "?"
+					"cantones": 7
 				},
 				{
 					"id_mun": "0402",
 					"nombre": "Arcatao",
 					"codigo_postal": "01303",
-					"cantones": "?"
+					"cantones": 8
 				},
 				{
 					"id_mun": "0403",
 					"nombre": "Azacualpa",
 					"codigo_postal": "01304",
-					"cantones": "?"
+					"cantones": 2
 				},
 				{
 					"id_mun": "0407",
 					"nombre": "Chalatenango",
 					"codigo_postal": "01301",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0404",
 					"nombre": "Citalá",
 					"codigo_postal": "01306",
-					"cantones": "?"
+					"cantones": 8
 				},
 				{
 					"id_mun": "0405",
 					"nombre": "Comalapa",
 					"codigo_postal": "01307",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0406",
 					"nombre": "Concepción Quezaltepeque",
 					"codigo_postal": "01308",
-					"cantones": "?"
+					"cantones": 5
 				},
 				{
 					"id_mun": "0408",
 					"nombre": "Dulce Nombre de María",
 					"codigo_postal": "01309",
-					"cantones": "?"
+					"cantones": 9
 				},
 				{
 					"id_mun": "0409",
 					"nombre": "El Carrizal",
 					"codigo_postal": "01311",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0410",
 					"nombre": "El Paraíso",
 					"codigo_postal": "01312",
-					"cantones": "?"
+					"cantones": 3
 				},
 				{
 					"id_mun": "0411",
 					"nombre": "La Laguna",
 					"codigo_postal": "01313",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0412",
 					"nombre": "La Palma",
 					"codigo_postal": "01314",
-					"cantones": "?"
+					"cantones": 7
 				},
 				{
 					"id_mun": "0413",
 					"nombre": "La Reina",
 					"codigo_postal": "01315",
-					"cantones": "?"
+					"cantones": 7
 				},
 				{
 					"id_mun": "0414",
 					"nombre": "Las Vueltas",
 					"codigo_postal": "01317",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0415",
 					"nombre": "Nombre de Jesús",
 					"codigo_postal": "01318",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0416",
 					"nombre": "Nueva Concepción",
 					"codigo_postal": "01319",
-					"cantones": "?"
+					"cantones": 10
 				},
 				{
 					"id_mun": "0417",
 					"nombre": "Nueva Trinidad",
 					"codigo_postal": "01320",
-					"cantones": "?"
+					"cantones": 7
 				},
 				{
 					"id_mun": "0418",
 					"nombre": "Ojos de Agua",
 					"codigo_postal": "01321",
-					"cantones": "?"
+					"cantones": 7
 				},
 				{
 					"id_mun": "0419",
 					"nombre": "Potonico",
 					"codigo_postal": "01322",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0420",
 					"nombre": "San Antonio de la Cruz",
 					"codigo_postal": "01324",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0421",
 					"nombre": "San Antonio Los Ranchos",
 					"codigo_postal": "01325",
-					"cantones": "?"
+					"cantones": 1
 				},
 				{
 					"id_mun": "0422",
 					"nombre": "San Fernando",
 					"codigo_postal": "01326",
-					"cantones": "?"
+					"cantones": 5
 				},
 				{
 					"id_mun": "0423",
@@ -422,61 +422,61 @@
 					"id_mun": "0424",
 					"nombre": "San Francisco Morazán",
 					"codigo_postal": "01328",
-					"cantones": "?"
+					"cantones": 2
 				},
 				{
 					"id_mun": "0425",
 					"nombre": "San Ignacio",
 					"codigo_postal": "01329",
-					"cantones": "?"
+					"cantones": 7
 				},
 				{
 					"id_mun": "0426",
 					"nombre": "San Isidro Labrador",
 					"codigo_postal": "01330",
-					"cantones": "?"
+					"cantones": 5
 				},
 				{
 					"id_mun": "0427",
 					"nombre": "San José Cancasque (Cancasque)",
 					"codigo_postal": "01305",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0428",
 					"nombre": "San José Las Flores / Las Flores",
 					"codigo_postal": "01316",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0429",
 					"nombre": "San Luis del Carmen",
 					"codigo_postal": "01331",
-					"cantones": "?"
+					"cantones": 5
 				},
 				{
 					"id_mun": "0430",
 					"nombre": "San Miguel de Mercedes",
 					"codigo_postal": "01332",
-					"cantones": "?"
+					"cantones": 5
 				},
 				{
 					"id_mun": "0431",
 					"nombre": "San Rafael",
 					"codigo_postal": "01333",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0432",
 					"nombre": "Santa Rita",
 					"codigo_postal": "01334",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0433",
 					"nombre": "Tejutla",
 					"codigo_postal": "01335",
-					"cantones": "?"
+					"cantones": 15
 				}
 			]
 		},
@@ -491,133 +491,133 @@
 					"id_mun": "0501",
 					"nombre": "Antiguo Cuscatlán",
 					"codigo_postal": "01502",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0505",
 					"nombre": "Chiltiupán",
 					"codigo_postal": "01507",
-					"cantones": "?"
+					"cantones": 11
 				},
 				{
 					"id_mun": "0502",
 					"nombre": "Ciudad Arce",
 					"codigo_postal": "01504",
-					"cantones": "?"
+					"cantones": 12
 				},
 				{
 					"id_mun": "0503",
 					"nombre": "Colón",
 					"codigo_postal": "01512",
-					"cantones": "?"
+					"cantones": 12
 				},
 				{
 					"id_mun": "0504",
 					"nombre": "Comasagua",
 					"codigo_postal": "01506",
-					"cantones": "?"
+					"cantones": 9
 				},
 				{
 					"id_mun": "0506",
 					"nombre": "Huizúcar",
 					"codigo_postal": "01508",
-					"cantones": "?"
+					"cantones": 6
 				},
 				{
 					"id_mun": "0507",
 					"nombre": "Jayaque",
 					"codigo_postal": "01509",
-					"cantones": "?"
+					"cantones": 4
 				},
 				{
 					"id_mun": "0508",
 					"nombre": "Jicalapa",
 					"codigo_postal": "01510",
-					"cantones": "?"
+					"cantones": 3
 				},
 				{
 					"id_mun": "0509",
 					"nombre": "La Libertad",
 					"codigo_postal": "01511",
-					"cantones": "?"
+					"cantones": 9
 				},
 				{
 					"id_mun": "0511",
 					"nombre": "Santa Tecla",
 					"codigo_postal": "01501",
-					"cantones": "?"
+					"cantones": 14
 				},
 				{
 					"id_mun": "0510",
 					"nombre": "Nuevo Cuscatlán",
 					"codigo_postal": "01513",
-					"cantones": "?"
+					"cantones": 0
 				},
 				{
 					"id_mun": "0515",
 					"nombre": "San Juan Opico",
 					"codigo_postal": "01514",
-					"cantones": "?"
+					"cantones": 28
 				},
 				{
 					"id_mun": "0512",
 					"nombre": "Quezaltepeque",
 					"codigo_postal": "01515",
-					"cantones": "?"
+					"cantones": 13
 				},
 				{
 					"id_mun": "0513",
 					"nombre": "Sacacoyo",
 					"codigo_postal": "01516",
-					"cantones": "?"
+					"cantones": 3
 				},
 				{
 					"id_mun": "0514",
 					"nombre": "San José Villanueva",
 					"codigo_postal": "01517",
-					"cantones": "?"
+					"cantones": 5
 				},
 				{
 					"id_mun": "0516",
 					"nombre": "San Matías",
 					"codigo_postal": "01518",
-					"cantones": "?"
+					"cantones": 8
 				},
 				{
 					"id_mun": "0517",
 					"nombre": "San Pablo Tacachico",
 					"codigo_postal": "01519",
-					"cantones": "?"
+					"cantones": 9
 				},
 				{
 					"id_mun": "0519",
 					"nombre": "Talnique",
 					"codigo_postal": "01521",
-					"cantones": "?"
+					"cantones": 7
 				},
 				{
 					"id_mun": "0518",
 					"nombre": "Tamanique",
 					"codigo_postal": "01522",
-					"cantones": "?"
+					"cantones": 11
 				},
 				{
 					"id_mun": "0520",
 					"nombre": "Teotepeque",
 					"codigo_postal": "01523",
-					"cantones": "?"
+					"cantones": 10
 				},
 				{
 					"id_mun": "0521",
 					"nombre": "Tepecoyo",
 					"codigo_postal": "01524",
-					"cantones": "?"
+					"cantones": 10
 				},
 				{
 					"id_mun": "0522",
 					"nombre": "Zaragoza",
 					"codigo_postal": "01525",
-					"cantones": "?"
+					"cantones": 4
 				}
 
 			]
