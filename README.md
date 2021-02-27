@@ -5,6 +5,9 @@ Departamentos y municipios de El Salvador en formato json.
 Esta información puede ser consumida desde la siguiente ruta:
 https://api.npoint.io/253f0ee259ef1620a547/departamentos
 
+## Estado
+Aun se encuentra en desarrollo
+
 ### El archivo tiene la siguiente estructura:
 
 | Propiedad |Tipo | Descripción |
