@@ -32,13 +32,11 @@ Los municipios contienen la siguiente información:
 
 
 
-## Ejemplo para accesar a la información desde Javascript:
+## Ejemplo para accesar a la información desde Javascript:    
     
-    ```js
     fetch('https://api.npoint.io/253f0ee259ef1620a547/departamentos')
     .then(response => response.json())
-    .then(data => console.log(data))
-    ```
+    .then(data => console.log(data))    
 
 ## Referencias
 
