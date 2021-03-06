@@ -1588,24 +1588,114 @@
 			"extension": 2074.34,
 			"ISO3166-2": "SV-UN",
 			"municipios": [
-				"Anamorós",
-				"Bolívar",
-				"Concepción de Oriente",
-				"Conchagua",
-				"El Carmen",
-				"El Sauce",
-				"Intipucá",
-				"La Unión",
-				"Lilisque",
-				"Meanguera del Golfo",
-				"Nueva Esparta",
-				"Pasaquina",
-				"Polorós",
-				"San Alejo",
-				"San José",
-				"Santa Rosa de Lima",
-				"Yayantique",
-				"Yucuaiquín"
+				{
+					"id_mun": "1401",
+					"nombre": "Anamorós",
+					"codigo_postal": "03104",
+					"cantones": 8
+				},
+				{
+					"id_mun": "1402",
+					"nombre": "Bolívar",
+					"codigo_postal": "03104",
+					"cantones": 9
+				},
+				{
+					"id_mun": "1403",
+					"nombre": "Concepción de Oriente",
+					"codigo_postal": "03104",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1404",
+					"nombre": "Conchagua",
+					"codigo_postal": "03104",
+					"cantones": 16
+				},
+				{
+					"id_mun": "1405",
+					"nombre": "El Carmen",
+					"codigo_postal": "03104",
+					"cantones": 11
+				},
+				{
+					"id_mun": "1406",
+					"nombre": "El Sauce",
+					"codigo_postal": "03104",
+					"cantones": 5
+				},
+				{
+					"id_mun": "1407",
+					"nombre": "Intipucá",
+					"codigo_postal": "03104",
+					"cantones": 2
+				},
+				{
+					"id_mun": "1408",
+					"nombre": "La Unión",
+					"codigo_postal": "03104",
+					"cantones": 13
+				},
+				{
+					"id_mun": "1409",
+					"nombre": "Lilisque",
+					"codigo_postal": "03104",
+					"cantones": 6
+				},
+				{
+					"id_mun": "1410",
+					"nombre": "Meanguera del Golfo",
+					"codigo_postal": "03104",
+					"cantones": 3
+				},
+				{
+					"id_mun": "1411",
+					"nombre": "Nueva Esparta",
+					"codigo_postal": "03104",
+					"cantones": 6
+				},
+				{
+					"id_mun": "1412",
+					"nombre": "Pasaquina",
+					"codigo_postal": "03104",
+					"cantones": 9
+				},
+				{
+					"id_mun": "1413",
+					"nombre": "Polorós",
+					"codigo_postal": "03104",
+					"cantones": 7
+				},
+				{
+					"id_mun": "1414",
+					"nombre": "San Alejo",
+					"codigo_postal": "03104",
+					"cantones": 19
+				},
+				{
+					"id_mun": "1415",
+					"nombre": "San José",
+					"codigo_postal": "03104",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1416",
+					"nombre": "Santa Rosa de Lima",
+					"codigo_postal": "03104",
+					"cantones": 8
+				},
+				{
+					"id_mun": "1417",
+					"nombre": "Yayantique",
+					"codigo_postal": "03104",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1418",
+					"nombre": "Yucuaiquín",
+					"codigo_postal": "03104",
+					"cantones": 9
+				}
 			]
 		}
 	]

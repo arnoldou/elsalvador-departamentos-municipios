@@ -6,8 +6,7 @@ Esta información puede ser consumida desde la siguiente ruta:
 https://api.npoint.io/253f0ee259ef1620a547/departamentos
 
 ## Estado
-- Aun se encuentra en desarrollo.
-- Pendientes los datos de La Unión.
+- Completado los datos de los 14 departamentos.
 
 ### El archivo tiene la siguiente estructura:
 
