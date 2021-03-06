@@ -7,7 +7,7 @@ https://api.npoint.io/253f0ee259ef1620a547/departamentos
 
 ## Estado
 - Aun se encuentra en desarrollo.
-- Pendientes los datos de San Miguel, Morazán y La Unión.
+- Pendientes los datos de Morazán y La Unión.
 
 ### El archivo tiene la siguiente estructura:
 
