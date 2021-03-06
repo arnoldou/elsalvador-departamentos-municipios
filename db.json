@@ -1058,79 +1058,73 @@
 				{
 					"id_mun": "1002",
 					"nombre": "Guadalupe",
-					"codigo_postal": "01702",
+					"codigo_postal": "01703",
 					"cantones": 4
 				},
 				{
 					"id_mun": "1003",
 					"nombre": "San Cayetano Istepeque",
-					"codigo_postal": "01702",
+					"codigo_postal": "01704",
 					"cantones": 3
 				},
 				{
 					"id_mun": "1004",
 					"nombre": "Santa Clara",
-					"codigo_postal": "01702",
+					"codigo_postal": "01709",
 					"cantones": 6
 				},
 				{
 					"id_mun": "1005",
 					"nombre": "Santo Domingo",
-					"codigo_postal": "01702",
+					"codigo_postal": "01710",
 					"cantones": 4
 				},
 				{
 					"id_mun": "1006",
 					"nombre": "San Esteban Catarina",
-					"codigo_postal": "01702",
+					"codigo_postal": "01705",
 					"cantones": 7
 				},
 				{
 					"id_mun": "1007",
 					"nombre": "San Ildefonso",
-					"codigo_postal": "01702",
+					"codigo_postal": "01706",
 					"cantones": 6
 				},
 				{
 					"id_mun": "1008",
 					"nombre": "San Lorenzo",
-					"codigo_postal": "01702",
+					"codigo_postal": "01707",
 					"cantones": 4
 				},
 				{
 					"id_mun": "1009",
 					"nombre": "San Sebastián",
-					"codigo_postal": "01702",
+					"codigo_postal": "01708",
 					"cantones": 6
 				},
 				{
 					"id_mun": "1010",
 					"nombre": "San Vicente",
-					"codigo_postal": "01702",
+					"codigo_postal": "01701",
 					"cantones": 26
 				},
 				{
 					"id_mun": "1011",
 					"nombre": "Tecoluca",
-					"codigo_postal": "01702",
+					"codigo_postal": "01711",
 					"cantones": 24
 				},
 				{
 					"id_mun": "1012",
 					"nombre": "Tepetitán",
-					"codigo_postal": "01702",
+					"codigo_postal": "01712",
 					"cantones": 3
-				},
-				{
-					"id_mun": "1004",
-					"nombre": "Santa Clara",
-					"codigo_postal": "01702",
-					"cantones": 6
-				},
+				},				
 				{
 					"id_mun": "1013",
 					"nombre": "Verapaz",
-					"codigo_postal": "01702",
+					"codigo_postal": "01713",
 					"cantones": 8
 				}
 			]
