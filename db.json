@@ -1282,26 +1282,126 @@
 			"extension": 2077.1,
 			"ISO3166-2": "SV-SM",
 			"municipios": [
-				"Carolina",
-				"Chapeltique",
-				"Chinameca",
-				"Chirilagua",
-				"Ciudad Barrios",
-				"Comacarán",
-				"El Tránsito",
-				"Lolotique",
-				"Moncagua",
-				"Nueva Guadalupe",
-				"Nuevo Edén de San Juan",
-				"Quelepa",
-				"San Antonio del Mosco",
-				"San Gerardo",
-				"San Jorge",
-				"San Luis de la Reina",
-				"San Miguel",
-				"San Rafael Oriente",
-				"Sesori",
-				"Uluazapa"
+				{
+					"id_mun": "1201",
+					"nombre": "Carolina",
+					"codigo_postal": "03302",
+					"cantones": 5
+				},
+				{
+					"id_mun": "1202",
+					"nombre": "Ciudad Barrios",
+					"codigo_postal": "03303",
+					"cantones": 11
+				},
+				{
+					"id_mun": "1203",
+					"nombre": "Comacarán",
+					"codigo_postal": "03304",
+					"cantones": 5
+				},
+				{
+					"id_mun": "1204",
+					"nombre": "Chapeltique",
+					"codigo_postal": "03305",
+					"cantones": 6
+				},
+				{
+					"id_mun": "1205",
+					"nombre": "Chinameca",
+					"codigo_postal": "03306",
+					"cantones": 20
+				},
+				{
+					"id_mun": "1206",
+					"nombre": "Chirilagua",
+					"codigo_postal": "03307",
+					"cantones": 11
+				},
+				{
+					"id_mun": "1207",
+					"nombre": "El Tránsito",
+					"codigo_postal": "03309",
+					"cantones": 6
+				},
+				{
+					"id_mun": "1208",
+					"nombre": "Lolotique",
+					"codigo_postal": "03311",
+					"cantones": 9
+				},
+				{
+					"id_mun": "1209",
+					"nombre": "Moncagua",
+					"codigo_postal": "03312",
+					"cantones": 10
+				},
+				{
+					"id_mun": "1210",
+					"nombre": "Nueva Guadalupe",
+					"codigo_postal": "03313",
+					"cantones": 3
+				},
+				{
+					"id_mun": "1211",
+					"nombre": "Nuevo Edén de San Juan",
+					"codigo_postal": "03314",
+					"cantones": 7
+				},
+				{
+					"id_mun": "1212",
+					"nombre": "Quelepa",
+					"codigo_postal": "03315",
+					"cantones": 3
+				},
+				{
+					"id_mun": "1213",
+					"nombre": "San Antonio del Mosco",
+					"codigo_postal": "03316",
+					"cantones": 2
+				},
+				{
+					"id_mun": "1214",
+					"nombre": "San Gerardo",
+					"codigo_postal": "03318",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1215",
+					"nombre": "San Jorge",
+					"codigo_postal": "03319",
+					"cantones": 5
+				},
+				{
+					"id_mun": "1216",
+					"nombre": "San Luis de la Reina",
+					"codigo_postal": "03320",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1217",
+					"nombre": "San Miguel",
+					"codigo_postal": "03301",
+					"cantones": 32
+				},
+				{
+					"id_mun": "1218",
+					"nombre": "San Rafael Oriente",
+					"codigo_postal": "03322",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1219",
+					"nombre": "Sesori",
+					"codigo_postal": "03323",
+					"cantones": 11
+				},
+				{
+					"id_mun": "1220",
+					"nombre": "Uluazapa",
+					"codigo_postal": "03324",
+					"cantones": 3
+				}
 			]
 		},
 		{
