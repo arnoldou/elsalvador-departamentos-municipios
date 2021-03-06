@@ -1423,32 +1423,162 @@
 			"extension": 1447.43,
 			"ISO3166-2": "SV-MO",
 			"municipios": [
-				"Arambala",
-				"Cacaopera",
-				"Chilanga",
-				"Corinto",
-				"Delicias de Concepción",
-				"El Divisadero",
-				"El Rosario",
-				"Gualococti",
-				"Guatajiagua",
-				"Joateca",
-				"Jocoaitique",
-				"Jocoro",
-				"Lolotiquillo",
-				"Meanguera",
-				"Osicala",
-				"Perquín",
-				"San Carlos",
-				"San Fernando",
-				"San Francisco Gotera",
-				"San Isidro",
-				"San Simón",
-				"Sensembra",
-				"Sociedad",
-				"Torola",
-				"Yamabal",
-				"Yoloaiquín"
+				{
+					"id_mun": "1301",
+					"nombre": "Arambala",
+					"codigo_postal": "03202",
+					"cantones": 2
+				},
+				{
+					"id_mun": "1302",
+					"nombre": "Cacaopera",
+					"codigo_postal": "03203",
+					"cantones": 7
+				},
+				{
+					"id_mun": "1303",
+					"nombre": "Corinto",
+					"codigo_postal": "03204",
+					"cantones": 5
+				},
+				{
+					"id_mun": "1304",
+					"nombre": "Chilanga",
+					"codigo_postal": "03205",
+					"cantones": 6
+				},
+				{
+					"id_mun": "1305",
+					"nombre": "Delicias de Concepción",
+					"codigo_postal": "03206",
+					"cantones": 2
+				},
+				{
+					"id_mun": "1306",
+					"nombre": "El Divisadero",
+					"codigo_postal": "03207",
+					"cantones": 7
+				},
+				{
+					"id_mun": "1307",
+					"nombre": "El Rosario",
+					"codigo_postal": "03208",
+					"cantones": 2
+				},
+				{
+					"id_mun": "1308",
+					"nombre": "Gualococti",
+					"codigo_postal": "03209",
+					"cantones": 2
+				},
+				{
+					"id_mun": "1309",
+					"nombre": "Guatajiagua",
+					"codigo_postal": "03210",
+					"cantones": 6
+				},
+				{
+					"id_mun": "1310",
+					"nombre": "Joateca",
+					"codigo_postal": "03211",
+					"cantones": 3
+				},
+				{
+					"id_mun": "1311",
+					"nombre": "Jocoaitique",
+					"codigo_postal": "03212",
+					"cantones": 2
+				},
+				{
+					"id_mun": "1312",
+					"nombre": "Jocoro",
+					"codigo_postal": "03213",
+					"cantones": 8
+				},
+				{
+					"id_mun": "1313",
+					"nombre": "Lolotiquillo",
+					"codigo_postal": "03214",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1314",
+					"nombre": "Meanguera",
+					"codigo_postal": "03215",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1315",
+					"nombre": "Osicala",
+					"codigo_postal": "03216",
+					"cantones": 5
+				},
+				{
+					"id_mun": "1316",
+					"nombre": "Perquín",
+					"codigo_postal": "03217",
+					"cantones": 3
+				},
+				{
+					"id_mun": "1317",
+					"nombre": "San Carlos",
+					"codigo_postal": "03218",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1318",
+					"nombre": "San Fernando",
+					"codigo_postal": "03219",
+					"cantones": 2
+				},
+				{
+					"id_mun": "1319",
+					"nombre": "San Francisco Gotera",
+					"codigo_postal": "03201",
+					"cantones": 6
+				},
+				{
+					"id_mun": "1320",
+					"nombre": "San Isidro",
+					"codigo_postal": "03220",
+					"cantones": 2
+				},
+				{
+					"id_mun": "1321",
+					"nombre": "San Simón",
+					"codigo_postal": "03221",
+					"cantones": 6
+				},
+				{
+					"id_mun": "1322",
+					"nombre": "Sensembra",
+					"codigo_postal": "03222",
+					"cantones": 2
+				},
+				{
+					"id_mun": "1323",
+					"nombre": "Sociedad",
+					"codigo_postal": "03223",
+					"cantones": 8
+				},
+				{
+					"id_mun": "1324",
+					"nombre": "Torola",
+					"codigo_postal": "03224",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1325",
+					"nombre": "Yamabal",
+					"codigo_postal": "03225",
+					"cantones": 4
+				},
+				{
+					"id_mun": "1326",
+					"nombre": "Yoloaiquín",
+					"codigo_postal": "03226",
+					"cantones": 2
+				}
 			]
 		},
 		{
