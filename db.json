@@ -1,27 +1,1191 @@
 {
-"departamentos": 
-[
-    {
-    "id": "11",
-    "nombre": "Usulután",
-    "municipios": ["Alegría","Berlín","California","Concepción Batres","El Triunfo","Ereguayquín","Estanzuelas","Jiquilisco","Jucuapa","Jucuarán","Mercedes Umaña","Nueva Granada","Ozatlán","Puerto El Triunfo","San Agustín","San Buenaventura","San Dionisio","San Francisco Javier","Santa Elena","Santa María","Santiago de María","Tecapán","Usulután"]
-    },    
-    {
-    "id": "12",
-    "nombre": "San Miguel",
-    "municipios": ["Carolina","Chapeltique","Chinameca","Chirilagua","Ciudad Barrios","Comacarán","El Tránsito","Lolotique","Moncagua","Nueva Guadalupe","Nuevo Edén de San Juan","Quelepa","San Antonio del Mosco","San Gerardo","San Jorge","San Luis de la Reina","San Miguel","San Rafael Oriente","Sesori","Uluazapa"]
-},
-{
-    "id": "13",
-    "nombre": "Morazán",
-    "municipios": ["Arambala","Cacaopera","Chilanga","Corinto","Delicias de Concepción","El Divisadero","El Rosario","Gualococti","Guatajiagua","Joateca","Jocoaitique","Jocoro","Lolotiquillo","Meanguera","Osicala","Perquín","San Carlos","San Fernando","San Francisco Gotera","San Isidro","San Simón","Sensembra","Sociedad","Torola","Yamabal","Yoloaiquín"]
-},
-{
-    "id": "14",
-    "nombre": "La Unión",
-    "municipios": ["Anamorós","Bolívar","Concepción de Oriente","Conchagua","El Carmen","El Sauce","Intipucá","La Unión","Lilisque","Meanguera del Golfo","Nueva Esparta","Pasaquina","Polorós","San Alejo","San José","Santa Rosa de Lima","Yayantique","Yucuaiquín"]
-} 
+	"departamentos": [
+		{
+			"id": "01",
+			"nombre": "Ahuachapán",
+			"cabecera": "Ahuachapán",
+			"extension": 1239.6,
+			"ISO3166-2": "SV-AH",
+			"municipios": [
+				{
+					"id_mun": "0101",
+					"nombre": "Ahuachapán",
+					"codigo_postal": "02101",
+					"cantones": 29
+				},
+				{
+					"id_mun": "0102",
+					"nombre": "Apaneca",
+					"codigo_postal": "02102",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0103",
+					"nombre": "Atiquizaya",
+					"codigo_postal": "02103",
+					"cantones": 14
+				},
+				{
+					"id_mun": "0104",
+					"nombre": "Concepción de Ataco",
+					"codigo_postal": "02106",
+					"cantones": 11
+				},
+				{
+					"id_mun": "0105",
+					"nombre": "El Refugio",
+					"codigo_postal": "02107",
+					"cantones": 3
+				},
+				{
+					"id_mun": "0106",
+					"nombre": "Guaymango",
+					"codigo_postal": "02108",
+					"cantones": 14
+				},
+				{
+					"id_mun": "0107",
+					"nombre": "Jujutla",
+					"codigo_postal": "02109",
+					"cantones": 12
+				},
+				{
+					"id_mun": "0108",
+					"nombre": "San Francisco Menéndez",
+					"codigo_postal": "02113",
+					"cantones": 9
+				},
+				{
+					"id_mun": "0109",
+					"nombre": "San Lorenzo",
+					"codigo_postal": "02115",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0110",
+					"nombre": "San Pedro Puxtla",
+					"codigo_postal": "02116",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0111",
+					"nombre": "Tacuba",
+					"codigo_postal": "02117",
+					"cantones": 14
+				},
+				{
+					"id_mun": "0112",
+					"nombre": "Turín",
+					"codigo_postal": "02118",
+					"cantones": 2
+				}
+			]
+		},
+		{
+			"id": "02",
+			"nombre": "Santa Ana",
+			"cabecera": "Santa Ana",
+			"extension": 2023.17,
+			"ISO3166-2": "SV-SA",
+			"municipios": [
+				{
+					"id_mun": "0201",
+					"nombre": "Candelaria de la Frontera",
+					"codigo_postal": "02203",
+					"cantones": 11
+				},
+				{
+					"id_mun": "0203",
+					"nombre": "Chalchuapa",
+					"codigo_postal": "02205",
+					"cantones": 20
+				},
+				{
+					"id_mun": "0202",
+					"nombre": "Coatepeque",
+					"codigo_postal": "02204",
+					"cantones": 16
+				},
+				{
+					"id_mun": "0204",
+					"nombre": "El Congo",
+					"codigo_postal": "02207",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0205",
+					"nombre": "El Porvenir",
+					"codigo_postal": "02208",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0206",
+					"nombre": "Masahuat",
+					"codigo_postal": "02210",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0207",
+					"nombre": "Metapán",
+					"codigo_postal": "02211",
+					"cantones": 29
+				},
+				{
+					"id_mun": "0208",
+					"nombre": "San Antonio Pajonal",
+					"codigo_postal": "02212",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0209",
+					"nombre": "San Sebastián Salitrillo",
+					"codigo_postal": "02215",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0210",
+					"nombre": "Santa Ana",
+					"codigo_postal": "02201",
+					"cantones": 35
+				},
+				{
+					"id_mun": "0211",
+					"nombre": "Santa Rosa Guachipilín",
+					"codigo_postal": "02216",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0212",
+					"nombre": "Santiago de la Frontera",
+					"codigo_postal": "02217",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0213",
+					"nombre": "Texistepeque",
+					"codigo_postal": "02218",
+					"cantones": 6
+				}
+			]
+		},
+		{
+			"id": "03",
+			"nombre": "Sonsonate",
+			"cabecera": "Sonsonate",
+			"extension": 1225.77,
+			"ISO3166-2": "SV-SO",
+			"municipios": [
+				{
+					"id_mun": "0301",
+					"nombre": "Acajutla",
+					"codigo_postal": "02302",
+					"cantones": 9
+				},
+				{
+					"id_mun": "0302",
+					"nombre": "Armenia",
+					"codigo_postal": "02303",
+					"cantones": 9
+				},
+				{
+					"id_mun": "0303",
+					"nombre": "Caluco",
+					"codigo_postal": "02304",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0304",
+					"nombre": "Cuisnahuat",
+					"codigo_postal": "02305",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0306",
+					"nombre": "Izalco",
+					"codigo_postal": "02306",
+					"cantones": 25
+				},
+				{
+					"id_mun": "0307",
+					"nombre": "Juayúa",
+					"codigo_postal": "02307",
+					"cantones": 10
+				},
+				{
+					"id_mun": "0308",
+					"nombre": "Nahuizalco",
+					"codigo_postal": "02311",
+					"cantones": 15
+				},
+				{
+					"id_mun": "0309",
+					"nombre": "Nahulingo",
+					"codigo_postal": "02312",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0310",
+					"nombre": "Salcoatitán",
+					"codigo_postal": "02313",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0311",
+					"nombre": "San Antonio del Monte",
+					"codigo_postal": "02314",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0312",
+					"nombre": "San Julián",
+					"codigo_postal": "02316",
+					"cantones": 9
+				},
+				{
+					"id_mun": "0313",
+					"nombre": "Santa Catarina Masahuat",
+					"codigo_postal": "02317",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0305",
+					"nombre": "Santa Isabel Ishuatán",
+					"codigo_postal": "02318",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0314",
+					"nombre": "Santo Domingo de Guzmán",
+					"codigo_postal": "02319",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0315",
+					"nombre": "Sonsonate",
+					"codigo_postal": "02301",
+					"cantones": 12
+				},
+				{
+					"id_mun": "0316",
+					"nombre": "Sonzacate",
+					"codigo_postal": "02320",
+					"cantones": 2
+				}
+			]
+		},
+		{
+			"id": "04",
+			"nombre": "Chalatenango",
+			"cabecera": "Chalatenango",
+			"extension": 2017.00,
+			"ISO3166-2": "SV-CH",
+			"municipios": [
+				{
+					"id_mun": "0401",
+					"nombre": "Agua Caliente",
+					"codigo_postal": "01302",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0402",
+					"nombre": "Arcatao",
+					"codigo_postal": "01303",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0403",
+					"nombre": "Azacualpa",
+					"codigo_postal": "01304",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0407",
+					"nombre": "Chalatenango",
+					"codigo_postal": "01301",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0404",
+					"nombre": "Citalá",
+					"codigo_postal": "01306",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0405",
+					"nombre": "Comalapa",
+					"codigo_postal": "01307",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0406",
+					"nombre": "Concepción Quezaltepeque",
+					"codigo_postal": "01308",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0408",
+					"nombre": "Dulce Nombre de María",
+					"codigo_postal": "01309",
+					"cantones": 9
+				},
+				{
+					"id_mun": "0409",
+					"nombre": "El Carrizal",
+					"codigo_postal": "01311",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0410",
+					"nombre": "El Paraíso",
+					"codigo_postal": "01312",
+					"cantones": 3
+				},
+				{
+					"id_mun": "0411",
+					"nombre": "La Laguna",
+					"codigo_postal": "01313",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0412",
+					"nombre": "La Palma",
+					"codigo_postal": "01314",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0413",
+					"nombre": "La Reina",
+					"codigo_postal": "01315",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0414",
+					"nombre": "Las Vueltas",
+					"codigo_postal": "01317",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0415",
+					"nombre": "Nombre de Jesús",
+					"codigo_postal": "01318",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0416",
+					"nombre": "Nueva Concepción",
+					"codigo_postal": "01319",
+					"cantones": 10
+				},
+				{
+					"id_mun": "0417",
+					"nombre": "Nueva Trinidad",
+					"codigo_postal": "01320",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0418",
+					"nombre": "Ojos de Agua",
+					"codigo_postal": "01321",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0419",
+					"nombre": "Potonico",
+					"codigo_postal": "01322",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0420",
+					"nombre": "San Antonio de la Cruz",
+					"codigo_postal": "01324",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0421",
+					"nombre": "San Antonio Los Ranchos",
+					"codigo_postal": "01325",
+					"cantones": 1
+				},
+				{
+					"id_mun": "0422",
+					"nombre": "San Fernando",
+					"codigo_postal": "01326",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0423",
+					"nombre": "San Francisco Lempa",
+					"codigo_postal": "01327",
+					"cantones": "?"
+				},
+				{
+					"id_mun": "0424",
+					"nombre": "San Francisco Morazán",
+					"codigo_postal": "01328",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0425",
+					"nombre": "San Ignacio",
+					"codigo_postal": "01329",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0426",
+					"nombre": "San Isidro Labrador",
+					"codigo_postal": "01330",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0427",
+					"nombre": "San José Cancasque (Cancasque)",
+					"codigo_postal": "01305",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0428",
+					"nombre": "San José Las Flores / Las Flores",
+					"codigo_postal": "01316",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0429",
+					"nombre": "San Luis del Carmen",
+					"codigo_postal": "01331",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0430",
+					"nombre": "San Miguel de Mercedes",
+					"codigo_postal": "01332",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0431",
+					"nombre": "San Rafael",
+					"codigo_postal": "01333",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0432",
+					"nombre": "Santa Rita",
+					"codigo_postal": "01334",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0433",
+					"nombre": "Tejutla",
+					"codigo_postal": "01335",
+					"cantones": 15
+				}
+			]
+		},
+		{
+			"id": "05",
+			"nombre": "La Libertad",
+			"cabecera": "Santa Tecla",
+			"extension": 1652.88,
+			"ISO3166-2": "SV-LI",
+			"municipios": [
+				{
+					"id_mun": "0501",
+					"nombre": "Antiguo Cuscatlán",
+					"codigo_postal": "01502",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0502",
+					"nombre": "Ciudad Arce",
+					"codigo_postal": "01504",
+					"cantones": 15
+				},
+				{
+					"id_mun": "0503",
+					"nombre": "Colón",
+					"codigo_postal": "01512",
+					"cantones": 12
+				},
+				{
+					"id_mun": "0504",
+					"nombre": "Comasagua",
+					"codigo_postal": "01506",
+					"cantones": 9
+				},
+				{
+					"id_mun": "0505",
+					"nombre": "Chiltiupán",
+					"codigo_postal": "01507",
+					"cantones": 11
+				},
+				{
+					"id_mun": "0506",
+					"nombre": "Huizúcar",
+					"codigo_postal": "01508",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0507",
+					"nombre": "Jayaque",
+					"codigo_postal": "01509",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0508",
+					"nombre": "Jicalapa",
+					"codigo_postal": "01510",
+					"cantones": 3
+				},
+				{
+					"id_mun": "0509",
+					"nombre": "La Libertad",
+					"codigo_postal": "01511",
+					"cantones": 10
+				},
+				{
+					"id_mun": "0510",
+					"nombre": "Nuevo Cuscatlán",
+					"codigo_postal": "01513",
+					"cantones": 0
+				},
+				{
+					"id_mun": "0511",
+					"nombre": "Santa Tecla",
+					"codigo_postal": "01501",
+					"cantones": 10
+				},
+				{
+					"id_mun": "0512",
+					"nombre": "Quezaltepeque",
+					"codigo_postal": "01515",
+					"cantones": 13
+				},
+				{
+					"id_mun": "0513",
+					"nombre": "Sacacoyo",
+					"codigo_postal": "01516",
+					"cantones": 3
+				},
+				{
+					"id_mun": "0514",
+					"nombre": "San José Villanueva",
+					"codigo_postal": "01517",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0515",
+					"nombre": "San Juan Opico",
+					"codigo_postal": "01514",
+					"cantones": 27
+				},
+				{
+					"id_mun": "0516",
+					"nombre": "San Matías",
+					"codigo_postal": "01518",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0517",
+					"nombre": "San Pablo Tacachico",
+					"codigo_postal": "01519",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0518",
+					"nombre": "Tamanique",
+					"codigo_postal": "01522",
+					"cantones": 11
+				},
+				{
+					"id_mun": "0519",
+					"nombre": "Talnique",
+					"codigo_postal": "01521",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0520",
+					"nombre": "Teotepeque",
+					"codigo_postal": "01523",
+					"cantones": 10
+				},
+				{
+					"id_mun": "0521",
+					"nombre": "Tepecoyo",
+					"codigo_postal": "01524",
+					"cantones": 10
+				},
+				{
+					"id_mun": "0522",
+					"nombre": "Zaragoza",
+					"codigo_postal": "01525",
+					"cantones": 4
+				}
 
-]
-
+			]
+		},
+		{
+			"id": "06",
+			"nombre": "San Salvador",
+			"cabecera": "San Salvador",
+			"extension": 886.15,
+			"ISO3166-2": "SV-SS",
+			"municipios": [
+				{
+					"id_mun": "0601",
+					"nombre": "Aguilares",
+					"codigo_postal": "01122",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0602",
+					"nombre": "Apopa",
+					"codigo_postal": "01123",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0603",
+					"nombre": "Ayutuxtepeque",
+					"codigo_postal": "01121",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0604",
+					"nombre": "Cuscatancingo",
+					"codigo_postal": "01119",
+					"cantones": 1
+				},
+				{
+					"id_mun": "0605",
+					"nombre": "El Paisnal",
+					"codigo_postal": "01124",
+					"cantones": 12
+				},
+				{
+					"id_mun": "0606",
+					"nombre": "Guazapa",
+					"codigo_postal": "01125",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0607",
+					"nombre": "Ilopango",
+					"codigo_postal": "01117",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0608",
+					"nombre": "Mejicanos",
+					"codigo_postal": "01120",
+					"cantones": 0
+				},
+				{
+					"id_mun": "0609",
+					"nombre": "Nejapa",
+					"codigo_postal": "01126",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0610",
+					"nombre": "Panchimalco",
+					"codigo_postal": "01127",
+					"cantones": 14
+				},
+				{
+					"id_mun": "0611",
+					"nombre": "Rosario de Mora",
+					"codigo_postal": "01128",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0612",
+					"nombre": "San Marcos",
+					"codigo_postal": "01115",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0613",
+					"nombre": "San Martín",
+					"codigo_postal": "01129",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0614",
+					"nombre": "San Salvador",
+					"codigo_postal": "01101",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0615",
+					"nombre": "Santiago Texacuangos",
+					"codigo_postal": "01130",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0616",
+					"nombre": "Santo Tomás",
+					"codigo_postal": "01131",
+					"cantones": 9
+				},
+				{
+					"id_mun": "0617",
+					"nombre": "Soyapango",
+					"codigo_postal": "01116",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0618",
+					"nombre": "Tonacatepeque",
+					"codigo_postal": "01132",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0619",
+					"nombre": "Ciudad Delgado",
+					"codigo_postal": "01118",
+					"cantones": 8
+				}
+			]
+		},
+		{
+			"id": "07",
+			"nombre": "Cuscatlán",
+			"cabecera": "Cojutepeque",
+			"extension": 756.19,
+			"ISO3166-2": "SV-CU",
+			"municipios": [
+				{
+					"id_mun": "0701",
+					"nombre": "Candelaria",
+					"codigo_postal": "01402",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0702",
+					"nombre": "Cojutepeque",
+					"codigo_postal": "01401",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0703",
+					"nombre": "El Carmen",
+					"codigo_postal": "01403",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0704",
+					"nombre": "El Rosario",
+					"codigo_postal": "01404",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0705",
+					"nombre": "Monte San Juan",
+					"codigo_postal": "01405",
+					"cantones": 10
+				},
+				{
+					"id_mun": "0706",
+					"nombre": "Oratorio de Concepción",
+					"codigo_postal": "01406",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0707",
+					"nombre": "San Bartolomé Perulapía",
+					"codigo_postal": "01407",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0708",
+					"nombre": "San Cristóbal",
+					"codigo_postal": "01408",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0709",
+					"nombre": "San José Guayabal",
+					"codigo_postal": "01409",
+					"cantones": 9
+				},
+				{
+					"id_mun": "0710",
+					"nombre": "San Pedro Perulapán",
+					"codigo_postal": "01410",
+					"cantones": 17
+				},
+				{
+					"id_mun": "0711",
+					"nombre": "San Rafael Cedros",
+					"codigo_postal": "01411",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0712",
+					"nombre": "San Ramón",
+					"codigo_postal": "01412",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0713",
+					"nombre": "Santa Cruz Analquito",
+					"codigo_postal": "01413",
+					"cantones": 1
+				},
+				{
+					"id_mun": "0714",
+					"nombre": "Santa Cruz Michapa",
+					"codigo_postal": "01414",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0715",
+					"nombre": "Suchitoto",
+					"codigo_postal": "01415",
+					"cantones": 26
+				},
+				{
+					"id_mun": "0716",
+					"nombre": "Tenancingo",
+					"codigo_postal": "01416",
+					"cantones": 10
+				}
+			]
+		},
+		{
+			"id": "08",
+			"nombre": "La Paz",
+			"cabecera": "Zacatecoluca",
+			"extension": 1223.61,
+			"ISO3166-2": "SV-PA",
+			"municipios": [
+				{
+					"id_mun": "0801",
+					"nombre": "Cuyultitán",
+					"codigo_postal": "01603",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0802",
+					"nombre": "El Rosario",
+					"codigo_postal": "01604",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0803",
+					"nombre": "Jerusalén",
+					"codigo_postal": "01605",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0804",
+					"nombre": "Mercedes La Ceiba",
+					"codigo_postal": "01607",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0806",
+					"nombre": "Paraíso de Osorio",
+					"codigo_postal": "01609",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0808",
+					"nombre": "San Emigdio",
+					"codigo_postal": "01611",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0809",
+					"nombre": "San Francisco Chinameca",
+					"codigo_postal": "01612",
+					"cantones": 5
+				},
+				{
+					"id_mun": "0810",
+					"nombre": "San Juan Nonualco",
+					"codigo_postal": "01613",
+					"cantones": 12
+				},
+				{
+					"id_mun": "0811",
+					"nombre": "San Juan Talpa",
+					"codigo_postal": "01614",
+					"cantones": 4
+				},
+				{
+					"id_mun": "0812",
+					"nombre": "San Juan Tepezontes",
+					"codigo_postal": "01615",
+					"cantones": 3
+				},
+				{
+					"id_mun": "0813",
+					"nombre": "San Luis Talpa",
+					"codigo_postal": "01616",
+					"cantones": 10
+				},
+				{
+					"id_mun": "0814",
+					"nombre": "San Miguel Tepezontes",
+					"codigo_postal": "01617",
+					"cantones": 2
+				},
+				{
+					"id_mun": "0815",
+					"nombre": "San Pedro Masahuat",
+					"codigo_postal": "01618",
+					"cantones": 15
+				},
+				{
+					"id_mun": "0816",
+					"nombre": "San Pedro Nonualco",
+					"codigo_postal": "01619",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0817",
+					"nombre": "San Rafael Obrajuelo",
+					"codigo_postal": "01620",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0818",
+					"nombre": "Santa María Ostuma",
+					"codigo_postal": "01621",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0819",
+					"nombre": "Santiago Nonualco",
+					"codigo_postal": "01622",
+					"cantones": 22
+				},
+				{
+					"id_mun": "0820",
+					"nombre": "Tapalhuaca",
+					"codigo_postal": "01623",
+					"cantones": 3
+				},
+				{
+					"id_mun": "0821",
+					"nombre": "Zacatecoluca",
+					"codigo_postal": "01624",
+					"cantones": 39
+				},
+				{
+					"id_mun": "0822",
+					"nombre": "San Luis La Herradura",
+					"codigo_postal": "01606",
+					"cantones": 10
+				}
+			]
+		},
+		{
+			"id": "09",
+			"nombre": "Cabañas",
+			"cabecera": "Sensuntepeque",
+			"extension": 1103.51,
+			"ISO3166-2": "SV-CA",
+			"municipios": [
+				{
+					"id_mun": "0901",
+					"nombre": "Cinquera",
+					"codigo_postal": "01202",
+					"cantones": 8
+				},
+				{
+					"id_mun": "0902",
+					"nombre": "Guacotecti",
+					"codigo_postal": "01203",
+					"cantones": 3
+				},
+				{
+					"id_mun": "0903",
+					"nombre": "Ilobasco",
+					"codigo_postal": "01204",
+					"cantones": 18
+				},
+				{
+					"id_mun": "0904",
+					"nombre": "Jutiapa",
+					"codigo_postal": "01206",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0905",
+					"nombre": "San Isidro",
+					"codigo_postal": "01207",
+					"cantones": 7
+				},
+				{
+					"id_mun": "0906",
+					"nombre": "Sensuntepeque",
+					"codigo_postal": "01201",
+					"cantones": 22
+				},
+				{
+					"id_mun": "0907",
+					"nombre": "Tejutepeque",
+					"codigo_postal": "01208",
+					"cantones": 6
+				},
+				{
+					"id_mun": "0908",
+					"nombre": "Victoria",
+					"codigo_postal": "01210",
+					"cantones": 10
+				},
+				{
+					"id_mun": "0909",
+					"nombre": "Dolores",
+					"codigo_postal": "01209",
+					"cantones": 6
+				}
+			]
+		},
+		{
+			"id": "10",
+			"nombre": "San Vicente",
+			"cabecera": "San Vicente",
+			"extension": 1184.02,
+			"ISO3166-2": "SV-SV",
+			"municipios": [
+				"Apastepeque",
+				"Guadalupe",
+				"San Cayetano Istepeque",
+				"San Esteban Catarina",
+				"San Ildefonso",
+				"San Lorenzo",
+				"San Sebastián",
+				"San Vicente",
+				"Santa Clara",
+				"Santo Domingo",
+				"Tecoluca",
+				"Tepetitán",
+				"Verapaz"
+			]
+		},
+		{
+			"id": "11",
+			"nombre": "Usulután",
+			"cabecera": "Usulután",
+			"extension": 2130.44,
+			"ISO3166-2": "SV-US",
+			"municipios": [
+				"Alegría",
+				"Berlín",
+				"California",
+				"Concepción Batres",
+				"El Triunfo",
+				"Ereguayquín",
+				"Estanzuelas",
+				"Jiquilisco",
+				"Jucuapa",
+				"Jucuarán",
+				"Mercedes Umaña",
+				"Nueva Granada",
+				"Ozatlán",
+				"Puerto El Triunfo",
+				"San Agustín",
+				"San Buenaventura",
+				"San Dionisio",
+				"San Francisco Javier",
+				"Santa Elena",
+				"Santa María",
+				"Santiago de María",
+				"Tecapán",
+				"Usulután"
+			]
+		},
+		{
+			"id": "12",
+			"nombre": "San Miguel",
+			"cabecera": "San Miguel",
+			"extension": 2077.1,
+			"ISO3166-2": "SV-SM",
+			"municipios": [
+				"Carolina",
+				"Chapeltique",
+				"Chinameca",
+				"Chirilagua",
+				"Ciudad Barrios",
+				"Comacarán",
+				"El Tránsito",
+				"Lolotique",
+				"Moncagua",
+				"Nueva Guadalupe",
+				"Nuevo Edén de San Juan",
+				"Quelepa",
+				"San Antonio del Mosco",
+				"San Gerardo",
+				"San Jorge",
+				"San Luis de la Reina",
+				"San Miguel",
+				"San Rafael Oriente",
+				"Sesori",
+				"Uluazapa"
+			]
+		},
+		{
+			"id": "13",
+			"nombre": "Morazán",
+			"cabecera": "San Francisco Gotera",
+			"extension": 1447.43,
+			"ISO3166-2": "SV-MO",
+			"municipios": [
+				"Arambala",
+				"Cacaopera",
+				"Chilanga",
+				"Corinto",
+				"Delicias de Concepción",
+				"El Divisadero",
+				"El Rosario",
+				"Gualococti",
+				"Guatajiagua",
+				"Joateca",
+				"Jocoaitique",
+				"Jocoro",
+				"Lolotiquillo",
+				"Meanguera",
+				"Osicala",
+				"Perquín",
+				"San Carlos",
+				"San Fernando",
+				"San Francisco Gotera",
+				"San Isidro",
+				"San Simón",
+				"Sensembra",
+				"Sociedad",
+				"Torola",
+				"Yamabal",
+				"Yoloaiquín"
+			]
+		},
+		{
+			"id": "14",
+			"nombre": "La Unión",
+			"cabecera": "La Unión",
+			"extension": 2074.34,
+			"ISO3166-2": "SV-UN",
+			"municipios": [
+				"Anamorós",
+				"Bolívar",
+				"Concepción de Oriente",
+				"Conchagua",
+				"El Carmen",
+				"El Sauce",
+				"Intipucá",
+				"La Unión",
+				"Lilisque",
+				"Meanguera del Golfo",
+				"Nueva Esparta",
+				"Pasaquina",
+				"Polorós",
+				"San Alejo",
+				"San José",
+				"Santa Rosa de Lima",
+				"Yayantique",
+				"Yucuaiquín"
+			]
+		}
+	]
 }
