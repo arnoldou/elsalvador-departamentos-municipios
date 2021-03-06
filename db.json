@@ -277,7 +277,7 @@
 			"id": "04",
 			"nombre": "Chalatenango",
 			"cabecera": "Chalatenango",
-			"extension": 2017.00,
+			"extension": 2017.0,
 			"ISO3166-2": "SV-CH",
 			"municipios": [
 				{
@@ -619,7 +619,6 @@
 					"codigo_postal": "01525",
 					"cantones": 4
 				}
-
 			]
 		},
 		{
@@ -1120,7 +1119,7 @@
 					"nombre": "Tepetitán",
 					"codigo_postal": "01712",
 					"cantones": 3
-				},				
+				},
 				{
 					"id_mun": "1013",
 					"nombre": "Verapaz",
@@ -1153,7 +1152,7 @@
 					"nombre": "California",
 					"codigo_postal": "03404",
 					"cantones": 1
-				},	
+				},
 				{
 					"id_mun": "1104",
 					"nombre": "Concepción Batres",
@@ -1195,43 +1194,43 @@
 					"nombre": "Jucuarán",
 					"codigo_postal": "03411",
 					"cantones": 9
-				},	
+				},
 				{
 					"id_mun": "1111",
 					"nombre": "Mercedes Umaña",
 					"codigo_postal": "03412",
 					"cantones": 9
-				},	
+				},
 				{
 					"id_mun": "1112",
 					"nombre": "Nueva Granada",
 					"codigo_postal": "03413",
 					"cantones": 11
-				},	
+				},
 				{
 					"id_mun": "1113",
 					"nombre": "Ozatlán",
 					"codigo_postal": "03415",
 					"cantones": 6
-				},	
+				},
 				{
 					"id_mun": "1114",
 					"nombre": "Puerto El Triunfo",
 					"codigo_postal": "03417",
 					"cantones": 5
-				},	
+				},
 				{
 					"id_mun": "1115",
 					"nombre": "San Agustín",
 					"codigo_postal": "03418",
 					"cantones": 20
-				},	
+				},
 				{
 					"id_mun": "1116",
 					"nombre": "San Buenaventura",
 					"codigo_postal": "03419",
 					"cantones": 6
-				},	
+				},
 				{
 					"id_mun": "1117",
 					"nombre": "San Dionisio",
@@ -1243,31 +1242,31 @@
 					"nombre": "Santa Elena",
 					"codigo_postal": "03422",
 					"cantones": 10
-				},	
+				},
 				{
 					"id_mun": "1119",
 					"nombre": "San Francisco Javier",
 					"codigo_postal": "03421",
 					"cantones": 9
-				},	
+				},
 				{
 					"id_mun": "1120",
 					"nombre": "Santa María",
 					"codigo_postal": "03423",
 					"cantones": 2
-				},	
+				},
 				{
 					"id_mun": "1121",
 					"nombre": "Santiago de María",
 					"codigo_postal": "03424",
 					"cantones": 7
-				},	
+				},
 				{
 					"id_mun": "1122",
 					"nombre": "Tecapán",
 					"codigo_postal": "03426",
 					"cantones": 4
-				},	
+				},
 				{
 					"id_mun": "1123",
 					"nombre": "Usulután",
