@@ -1136,29 +1136,144 @@
 			"extension": 2130.44,
 			"ISO3166-2": "SV-US",
 			"municipios": [
-				"Alegría",
-				"Berlín",
-				"California",
-				"Concepción Batres",
-				"El Triunfo",
-				"Ereguayquín",
-				"Estanzuelas",
-				"Jiquilisco",
-				"Jucuapa",
-				"Jucuarán",
-				"Mercedes Umaña",
-				"Nueva Granada",
-				"Ozatlán",
-				"Puerto El Triunfo",
-				"San Agustín",
-				"San Buenaventura",
-				"San Dionisio",
-				"San Francisco Javier",
-				"Santa Elena",
-				"Santa María",
-				"Santiago de María",
-				"Tecapán",
-				"Usulután"
+				{
+					"id_mun": "1101",
+					"nombre": "Alegría",
+					"codigo_postal": "03404",
+					"cantones": 8
+				},
+				{
+					"id_mun": "1102",
+					"nombre": "Berlín",
+					"codigo_postal": "03403",
+					"cantones": 17
+				},
+				{
+					"id_mun": "1103",
+					"nombre": "California",
+					"codigo_postal": "03404",
+					"cantones": 1
+				},	
+				{
+					"id_mun": "1104",
+					"nombre": "Concepción Batres",
+					"codigo_postal": "03405",
+					"cantones": 9
+				},
+				{
+					"id_mun": "1105",
+					"nombre": "El Triunfo",
+					"codigo_postal": "03406",
+					"cantones": 5
+				},
+				{
+					"id_mun": "1106",
+					"nombre": "Ereguayquín",
+					"codigo_postal": "03407",
+					"cantones": 5
+				},
+				{
+					"id_mun": "1107",
+					"nombre": "Estanzuelas",
+					"codigo_postal": "03408",
+					"cantones": 9
+				},
+				{
+					"id_mun": "1108",
+					"nombre": "Jiquilisco",
+					"codigo_postal": "03409",
+					"cantones": 39
+				},
+				{
+					"id_mun": "1109",
+					"nombre": "Jucuapa",
+					"codigo_postal": "03410",
+					"cantones": 9
+				},
+				{
+					"id_mun": "1110",
+					"nombre": "Jucuarán",
+					"codigo_postal": "03411",
+					"cantones": 9
+				},	
+				{
+					"id_mun": "1111",
+					"nombre": "Mercedes Umaña",
+					"codigo_postal": "03412",
+					"cantones": 9
+				},	
+				{
+					"id_mun": "1112",
+					"nombre": "Nueva Granada",
+					"codigo_postal": "03413",
+					"cantones": 11
+				},	
+				{
+					"id_mun": "1113",
+					"nombre": "Ozatlán",
+					"codigo_postal": "03415",
+					"cantones": 6
+				},	
+				{
+					"id_mun": "1114",
+					"nombre": "Puerto El Triunfo",
+					"codigo_postal": "03417",
+					"cantones": 5
+				},	
+				{
+					"id_mun": "1115",
+					"nombre": "San Agustín",
+					"codigo_postal": "03418",
+					"cantones": 20
+				},	
+				{
+					"id_mun": "1116",
+					"nombre": "San Buenaventura",
+					"codigo_postal": "03419",
+					"cantones": 6
+				},	
+				{
+					"id_mun": "1117",
+					"nombre": "San Dionisio",
+					"codigo_postal": "03420",
+					"cantones": 3
+				},
+				{
+					"id_mun": "1118",
+					"nombre": "Santa Elena",
+					"codigo_postal": "03422",
+					"cantones": 10
+				},	
+				{
+					"id_mun": "1119",
+					"nombre": "San Francisco Javier",
+					"codigo_postal": "03421",
+					"cantones": 9
+				},	
+				{
+					"id_mun": "1120",
+					"nombre": "Santa María",
+					"codigo_postal": "03423",
+					"cantones": 2
+				},	
+				{
+					"id_mun": "1121",
+					"nombre": "Santiago de María",
+					"codigo_postal": "03424",
+					"cantones": 7
+				},	
+				{
+					"id_mun": "1122",
+					"nombre": "Tecapán",
+					"codigo_postal": "03426",
+					"cantones": 4
+				},	
+				{
+					"id_mun": "1123",
+					"nombre": "Usulután",
+					"codigo_postal": "03401",
+					"cantones": 8
+				}
 			]
 		},
 		{
