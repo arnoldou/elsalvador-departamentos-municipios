@@ -2,7 +2,13 @@
 
 Departamentos y municipios de El Salvador en formato json.
 
-Esta información puede ser consumida desde la siguiente ruta:
+Para los departamentos usar:
+
+https://api.npoint.io/19485e724f0fe2228641
+
+
+Para departamentos y municipios usar:
+
 https://api.npoint.io/253f0ee259ef1620a547/departamentos
 
 ## Estado
@@ -12,7 +18,7 @@ https://api.npoint.io/253f0ee259ef1620a547/departamentos
 
 | Propiedad |Tipo | Descripción |
 | :------------- |:----------- |:---------- |
-| id | string |Identificador único para cada departamento |
+| codigo | string |Identificador único para cada departamento |
 | nombre | string | Nombre del departamento |
 | cabecera | string | Nombre de la cabecera del departamento|
 |ISO3166-2| string |Código  ISO3166-2 del departamento|

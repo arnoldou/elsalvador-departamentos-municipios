@@ -10,72 +10,84 @@
 				{
 					"id_mun": "0101",
 					"nombre": "Ahuachapán",
+					"extension": 244.84,
 					"codigo_postal": "02101",
 					"cantones": 29
 				},
 				{
 					"id_mun": "0102",
 					"nombre": "Apaneca",
+					"extension": 45.13,
 					"codigo_postal": "02102",
 					"cantones": 7
 				},
 				{
 					"id_mun": "0103",
 					"nombre": "Atiquizaya",
+					"extension": 1,
 					"codigo_postal": "02103",
 					"cantones": 14
 				},
 				{
 					"id_mun": "0104",
 					"nombre": "Concepción de Ataco",
+					"extension": 1,
 					"codigo_postal": "02106",
 					"cantones": 11
 				},
 				{
 					"id_mun": "0105",
 					"nombre": "El Refugio",
+					"extension": 1,
 					"codigo_postal": "02107",
 					"cantones": 3
 				},
 				{
 					"id_mun": "0106",
 					"nombre": "Guaymango",
+					"extension": 1,
 					"codigo_postal": "02108",
 					"cantones": 14
 				},
 				{
 					"id_mun": "0107",
 					"nombre": "Jujutla",
+					"extension": 1,
 					"codigo_postal": "02109",
 					"cantones": 12
 				},
 				{
 					"id_mun": "0108",
 					"nombre": "San Francisco Menéndez",
+					"extension": 1,
 					"codigo_postal": "02113",
 					"cantones": 9
 				},
 				{
 					"id_mun": "0109",
 					"nombre": "San Lorenzo",
+					"extension": 1,
 					"codigo_postal": "02115",
 					"cantones": 6
 				},
 				{
 					"id_mun": "0110",
 					"nombre": "San Pedro Puxtla",
+					"extension": 1,
 					"codigo_postal": "02116",
 					"cantones": 6
 				},
 				{
 					"id_mun": "0111",
 					"nombre": "Tacuba",
+					"extension": 1,
 					"codigo_postal": "02117",
 					"cantones": 14
 				},
 				{
 					"id_mun": "0112",
 					"nombre": "Turín",
+					"extension": 1,
 					"codigo_postal": "02118",
 					"cantones": 2
 				}

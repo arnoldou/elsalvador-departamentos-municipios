@@ -1,0 +1,102 @@
+{
+	"departamentos": [
+		{
+			"codigo": "01",
+			"nombre": "Ahuachapán",
+			"cabecera": "Ahuachapán",
+			"extension": 1239.6,
+			"ISO3166-2": "SV-AH"
+		},
+		{
+			"codigo": "02",
+			"nombre": "Santa Ana",
+			"cabecera": "Santa Ana",
+			"extension": 2023.17,
+			"ISO3166-2": "SV-SA"
+		},
+		{
+			"codigo": "03",
+			"nombre": "Sonsonate",
+			"cabecera": "Sonsonate",
+			"extension": 1225.77,
+			"ISO3166-2": "SV-SO"
+		},
+		{
+			"codigo": "04",
+			"nombre": "Chalatenango",
+			"cabecera": "Chalatenango",
+			"extension": 2017.0,
+			"ISO3166-2": "SV-CH"
+		},
+		{
+			"codigo": "05",
+			"nombre": "La Libertad",
+			"cabecera": "Santa Tecla",
+			"extension": 1652.88,
+			"ISO3166-2": "SV-LI"
+		},
+		{
+			"codigo": "06",
+			"nombre": "San Salvador",
+			"cabecera": "San Salvador",
+			"extension": 886.15,
+			"ISO3166-2": "SV-SS"
+		},
+		{
+			"codigo": "07",
+			"nombre": "Cuscatlán",
+			"cabecera": "Cojutepeque",
+			"extension": 756.19,
+			"ISO3166-2": "SV-CU"
+		},
+		{
+			"codigo": "08",
+			"nombre": "La Paz",
+			"cabecera": "Zacatecoluca",
+			"extension": 1223.61,
+			"ISO3166-2": "SV-PA"
+		},
+		{
+			"codigo": "09",
+			"nombre": "Cabañas",
+			"cabecera": "Sensuntepeque",
+			"extension": 1103.51,
+			"ISO3166-2": "SV-CA"
+		},
+		{
+			"codigo": "10",
+			"nombre": "San Vicente",
+			"cabecera": "San Vicente",
+			"extension": 1184.02,
+			"ISO3166-2": "SV-SV"
+		},
+		{
+			"codigo": "11",
+			"nombre": "Usulután",
+			"cabecera": "Usulután",
+			"extension": 2130.44,
+			"ISO3166-2": "SV-US"
+		},
+		{
+			"codigo": "12",
+			"nombre": "San Miguel",
+			"cabecera": "San Miguel",
+			"extension": 2077.1,
+			"ISO3166-2": "SV-SM"
+		},
+		{
+			"codigo": "13",
+			"nombre": "Morazán",
+			"cabecera": "San Francisco Gotera",
+			"extension": 1447.43,
+			"ISO3166-2": "SV-MO"
+		},
+		{
+			"codigo": "14",
+			"nombre": "La Unión",
+			"cabecera": "La Unión",
+			"extension": 2074.34,
+			"ISO3166-2": "SV-UN"
+		}
+	]
+}
